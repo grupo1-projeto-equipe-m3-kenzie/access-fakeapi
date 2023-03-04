@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "email": "acess@kenzie.com",
+      "password": "$2a$10$Dg3ZR/N56ECaN5hDj56ECOugNmR1dJhAVIuh9m0r2ozl/JHKjlyKO",
+      "name": "Acess",
+      "img": "",
+      "isAdm": "true",
+      "id": 1
+    },
+    {
+      "email": "teste@kenzie.com",
+      "password": "$2a$10$5gYY.X6XGnRZVj5/c3pVbO8To1m8jHEaKvBhvQUAMpKSi6BOG6HXm",
+      "name": "Acess",
+      "img": "",
+      "isAdm": "true",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "title": "Viagem incrível para Gaspar/SC",
+      "state": "SC",
+      "city": "Gaspar",
+      "country": "Brasil",
+      "img": "",
+      "description": "Nossa viagem foi sensacional! Ficamos na Cabanas Maktup, uma casinha no meio da mata que te traz uma sensação de paz, contato com a natureza, tranquilidade e paz. O lugar ideal para quem quer recarregar as energias e ficar alguns dias 'isolado' da socidade.",
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
