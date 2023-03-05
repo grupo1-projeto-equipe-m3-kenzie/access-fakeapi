@@ -6,15 +6,8 @@
       "name": "Acess",
       "img": "",
       "isAdm": "true",
-      "id": 1
-    },
-    {
-      "email": "teste@kenzie.com",
-      "password": "$2a$10$5gYY.X6XGnRZVj5/c3pVbO8To1m8jHEaKvBhvQUAMpKSi6BOG6HXm",
-      "name": "Acess",
-      "img": "",
-      "isAdm": "true",
-      "id": 2
+      "id": 1,
+      "following": []
     }
   ],
   "posts": [
@@ -26,7 +19,18 @@
       "img": "",
       "description": "Nossa viagem foi sensacional! Ficamos na Cabanas Maktup, uma casinha no meio da mata que te traz uma sensação de paz, contato com a natureza, tranquilidade e paz. O lugar ideal para quem quer recarregar as energias e ficar alguns dias 'isolado' da socidade.",
       "userId": 1,
-      "id": 1
+      "id": 1,
+      "comments": []
+    },
+    {
+      "title": "Caminhada na natureza",
+      "state": "PR",
+      "city": "São José dos Pinhais",
+      "country": "Brasil",
+      "img": "",
+      "description": "Se você curte contato com a natureza, praticar atividade física e conhecer outras pessoas, o programa ideal é participar de uma caminhada na natureza. A 7a caminhada notura da Colônica Murici, em São José dos Pinhais, foi uma experiência incrível, com desafios de não cair /(sim, devido a chuva, o terreno estava super enlameado)/, acompanhada de uma lua cheia esplêndia. Caminhada super recomendada!",
+      "userId": 1,
+      "id": 2
     }
   ]
 }
