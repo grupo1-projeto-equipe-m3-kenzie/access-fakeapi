@@ -4,14 +4,14 @@ https://access-fakeapi-12yk.onrender.com
 
 Este é o backend da aplicação Access, uma plataforma de viagens com o objetivo dos viajantes compartilharem experiências, informações sobre pontos turísticos e locais para visitar, estadias e rotas para passeios, além de poderem comentar nas publicações uns dos outros. 
 
-# ENDPOINTS:
+# Endpoint:
 A API tem um total de 10 endpoints, divididos entre posts e usuários: o usuário pode se cadastrar, cadastrar, ler e pesquisar posts, comentar nos mesmos e seguir outros usuários.
 
 O URL base da API é https://access-fakeapi-12yk.onrender.com/
 
-# ROTAS QUE NÃO PRECISAM DE AUTENTICAÇÃO
+# Rotas que não precisam de autenticação
 
-VISUALIZAR POSTS
+##VISUALIZAR POSTS
 
 Nessa aplicação, para os usuários visualizarem os posts cadastrados, não é necessário autenticação.
 
@@ -154,7 +154,7 @@ Se a requisição for bem-sucedida, a resposta será:
 POST /posts  - FORMATO DA RESPOSTA - STATUS 200
 
 
-# ROTAS QUE PRECISAM DE AUTENTICAÇÃO
+# Rotas que precisam de autenticação
 
 As rotas que precisam de autenticação precisam do respectivo token do usuário no cabeçalho da requisição no campo "Authorization", dessa forma:
 
