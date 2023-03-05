@@ -11,7 +11,7 @@ O URL base da API é https://access-fakeapi-12yk.onrender.com/
 
 # Rotas que não precisam de autenticação
 
-##VISUALIZAR POSTS
+VISUALIZAR POSTS
 
 Nessa aplicação, para os usuários visualizarem os posts cadastrados, não é necessário autenticação.
 
