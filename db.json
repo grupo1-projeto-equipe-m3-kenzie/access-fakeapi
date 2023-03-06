@@ -8,6 +8,14 @@
       "isAdm": "true",
       "id": 1,
       "following": []
+    },
+    {
+      "email": "teste@kenzie.com",
+      "password": "$2a$10$.EgrhnHDCXpsIkUbjH1/NOKeKYFr9siODz1DOMzSf0YArZj2jHgEK",
+      "name": "Teste",
+      "img": "",
+      "isAdm": "false",
+      "id": 2
     }
   ],
   "posts": [
@@ -32,6 +40,17 @@
       "userId": 1,
       "id": 2,
       "comments": []
+    },
+    {
+      "title": "Caminhada na natureza",
+      "state": "PR",
+      "city": "São José dos Pinhais",
+      "country": "Brasil",
+      "img": "",
+      "description": "Se você curte contato com a natureza, praticar atividade física e conhecer outras pessoas, o programa ideal é participar de uma caminhada na natureza. A 7a caminhada notura da Colônica Murici, em São José dos Pinhais, foi uma experiência incrível, com desafios de não cair /(sim, devido a chuva, o terreno estava super enlameado)/, acompanhada de uma lua cheia esplêndia. Caminhada super recomendada!",
+      "userId": 1,
+      "comments": [],
+      "id": 3
     }
   ]
 }
