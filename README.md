@@ -4,7 +4,7 @@ https://access-fakeapi-12yk.onrender.com
 
 Este é o backend da aplicação Access, uma plataforma de viagens com o objetivo dos viajantes compartilharem experiências, informações sobre pontos turísticos e locais para visitar, estadias e rotas para passeios, além de poderem comentar nas publicações uns dos outros. 
 
-# Endpoint:
+# Endpoints:
 A API tem um total de 10 endpoints, divididos entre posts e usuários: o usuário pode se cadastrar, cadastrar, ler e pesquisar posts, comentar nos mesmos e seguir outros usuários.
 
 O URL base da API é https://access-fakeapi-12yk.onrender.com/
