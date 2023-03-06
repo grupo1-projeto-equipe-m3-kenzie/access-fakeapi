@@ -1,5 +1,3 @@
-https://access-fakeapi-12yk.onrender.com
-
 # ACCESS-FAKEPI
 
 Este é o backend da aplicação Access, uma plataforma de viagens com o objetivo dos viajantes compartilharem experiências, informações sobre pontos turísticos e locais para visitar, estadias e rotas para passeios, além de poderem comentar nas publicações uns dos outros. 
