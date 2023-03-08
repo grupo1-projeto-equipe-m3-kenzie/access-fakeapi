@@ -44,6 +44,24 @@
       "isAdm": "false",
       "following": [2, 3],
       "id": 5
+    },
+    {
+      "email": "alex@kenzie.com",
+      "password": "$2a$10$ISWM04tlXlTcVAhHCdqBnOlQ0MfXnr99nHJgc6Irwvo8KJD3.q1.e",
+      "name": "Alex",
+      "img": "",
+      "isAdm": "false",
+      "following": [2, 3],
+      "id": 6
+    },
+    {
+      "email": "Kayan@kenzie.com",
+      "password": "$2a$10$ISWM04tlXlTcVAhHCdqBnOlQ0MfXnr99nHJgc6Irwvo8KJD3.q1.e",
+      "name": "Kayan",
+      "img": "",
+      "isAdm": "false",
+      "following": [2, 3],
+      "id": 7
     }
   ],
   "posts": [
