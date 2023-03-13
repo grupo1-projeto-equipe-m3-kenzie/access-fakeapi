@@ -4,7 +4,7 @@
       "email": "access@kenzie.com",
       "password": "$2a$10$Dg3ZR/N56ECaN5hDj56ECOugNmR1dJhAVIuh9m0r2ozl/JHKjlyKO",
       "name": "Acess",
-      "img": "",
+      "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "true",
       "following": [4, 5, 3],
       "id": 1
@@ -13,7 +13,7 @@
       "email": "pedro@kenzie.com",
       "password": "$2a$10$.EgrhnHDCXpsIkUbjH1/NOKeKYFr9siODz1DOMzSf0YArZj2jHgEK",
       "name": "Pedro",
-      "img": "",
+      "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "false",
       "following": [1, 4],
       "id": 2
@@ -22,7 +22,7 @@
       "email": "robson@kenzie.com",
       "password": "$2a$10$ISWM04tlXlTcVAhHCdqBnOlQ0MfXnr99nHJgc6Irwvo8KJD3.q1.e",
       "name": "Robson",
-      "img": "",
+      "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "false",
       "following": [2],
       "id": 3
@@ -31,7 +31,7 @@
       "email": "caio@kenzie.com",
       "password": "$2a$10$ISWM04tlXlTcVAhHCdqBnOlQ0MfXnr99nHJgc6Irwvo8KJD3.q1.e",
       "name": "Caio",
-      "img": "",
+      "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "false",
       "following": [3],
       "id": 4
@@ -40,7 +40,7 @@
       "email": "eduardo@kenzie.com",
       "password": "$2a$10$ISWM04tlXlTcVAhHCdqBnOlQ0MfXnr99nHJgc6Irwvo8KJD3.q1.e",
       "name": "Eduardo",
-      "img": "",
+      "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "false",
       "following": [2, 3, 4],
       "id": 5
@@ -49,7 +49,7 @@
       "email": "alex@kenzie.com",
       "password": "$2a$10$ISWM04tlXlTcVAhHCdqBnOlQ0MfXnr99nHJgc6Irwvo8KJD3.q1.e",
       "name": "Alex",
-      "img": "",
+      "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "false",
       "following": [2, 3],
       "id": 6
@@ -58,7 +58,7 @@
       "email": "Kayan@kenzie.com",
       "password": "$2a$10$ISWM04tlXlTcVAhHCdqBnOlQ0MfXnr99nHJgc6Irwvo8KJD3.q1.e",
       "name": "Kayan",
-      "img": "",
+      "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "false",
       "following": [2, 3, 6],
       "id": 7
@@ -136,9 +136,9 @@
       "name": "Pedro",
       "comments": [
         {
-          "name": "",
+          "name": "Kayan",
           "description": "adorei a dica",
-          "img": "https://cdn.pixabay.com/photo/2022/11/21/16/07/sunset-7607500_960_720.jpg"
+          "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg"
         }
       ],
       "id": 6
@@ -166,9 +166,9 @@
       "name": "Robson",
       "comments": [
         {
-          "name": "",
+          "name": "Pablo",
           "description": "adorei a dica",
-          "img": "https://cdn.pixabay.com/photo/2022/11/21/16/07/sunset-7607500_960_720.jpg"
+          "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg"
         }
       ],
       "id": 8
