@@ -6,7 +6,7 @@
       "name": "Acess",
       "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "true",
-      "following": [4, 5, 3],
+      "following": [],
       "id": 1
     },
     {
@@ -15,7 +15,7 @@
       "name": "Pedro",
       "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "false",
-      "following": [1, 4],
+      "following": [],
       "id": 2
     },
     {
@@ -24,7 +24,7 @@
       "name": "Robson",
       "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "false",
-      "following": [2],
+      "following": [],
       "id": 3
     },
     {
@@ -33,7 +33,7 @@
       "name": "Caio",
       "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "false",
-      "following": [3],
+      "following": [],
       "id": 4
     },
     {
@@ -42,7 +42,7 @@
       "name": "Eduardo",
       "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "false",
-      "following": [2, 3, 4],
+      "following": [],
       "id": 5
     },
     {
@@ -51,7 +51,7 @@
       "name": "Alex",
       "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "false",
-      "following": [2, 3],
+      "following": [],
       "id": 6
     },
     {
@@ -60,7 +60,7 @@
       "name": "Kayan",
       "img": "https://cdn.pixabay.com/photo/2023/03/09/20/02/cat-7840767_960_720.jpg",
       "isAdm": "false",
-      "following": [2, 3, 6],
+      "following": [],
       "id": 7
     }
   ],
@@ -71,7 +71,7 @@
       "city": "Gaspar",
       "country": "Brasil",
       "img": "https://cdn.pixabay.com/photo/2022/11/21/16/07/sunset-7607500_960_720.jpg",
-      "description": "Nossa viagem foi sensacional! Ficamos na Cabanas Maktup, uma casinha no meio da mata que te traz uma sensação de paz, contato com a natureza, tranquilidade e paz. O lugar ideal para quem quer recarregar as energias e ficar alguns dias 'isolado' da socidade.",
+      "description": "Viagem do Pedro",
       "userId": 2,
       "name": "Pedro",
       "id": 1,
@@ -83,7 +83,7 @@
       "city": "São José dos Pinhais",
       "country": "Brasil",
       "img": "https://cdn.pixabay.com/photo/2022/11/21/16/07/sunset-7607500_960_720.jpg",
-      "description": "Se você curte contato com a natureza, praticar atividade física e conhecer outras pessoas, o programa ideal é participar de uma caminhada na natureza. A 7a caminhada notura da Colônica Murici, em São José dos Pinhais, foi uma experiência incrível, com desafios de não cair /(sim, devido a chuva, o terreno estava super enlameado)/, acompanhada de uma lua cheia esplêndia. Caminhada super recomendada!",
+      "description": "Viagem do Eduardo",
       "userId": 5,
       "name": "Eduardo",
       "id": 2,
@@ -95,7 +95,7 @@
       "city": "São José dos Pinhais",
       "country": "Brasil",
       "img": "https://cdn.pixabay.com/photo/2022/11/21/16/07/sunset-7607500_960_720.jpg",
-      "description": "Se você curte contato com a natureza, praticar atividade física e conhecer outras pessoas, o programa ideal é participar de uma caminhada na natureza. A 7a caminhada notura da Colônica Murici, em São José dos Pinhais, foi uma experiência incrível, com desafios de não cair /(sim, devido a chuva, o terreno estava super enlameado)/, acompanhada de uma lua cheia esplêndia. Caminhada super recomendada!",
+      "description": "Viagem do Caio",
       "userId": 4,
       "name": "Caio",
       "comments": [],
@@ -119,8 +119,8 @@
       "city": "São José dos Pinhais",
       "country": "Brasil",
       "img": "https://cdn.pixabay.com/photo/2022/11/21/16/07/sunset-7607500_960_720.jpg",
-      "description": "Se você curte contato com a natureza, praticar atividade física e conhecer outras pessoas, o programa ideal é participar de uma caminhada na natureza. A 7a caminhada notura da Colônica Murici, em São José dos Pinhais, foi uma experiência incrível, com desafios de não cair /(sim, devido a chuva, o terreno estava super enlameado)/, acompanhada de uma lua cheia esplêndia. Caminhada super recomendada!",
-      "userId": 2,
+      "description": "Viagem do Robson",
+      "userId": 3,
       "name": "Robson",
       "comments": [],
       "id": 5
@@ -131,7 +131,7 @@
       "city": "São José dos Pinhais",
       "country": "Brasil",
       "img": "https://cdn.pixabay.com/photo/2022/11/21/16/07/sunset-7607500_960_720.jpg",
-      "description": "Se você curte contato com a natureza, praticar atividade física e conhecer outras pessoas, o programa ideal é participar de uma caminhada na natureza. A 7a caminhada notura da Colônica Murici, em São José dos Pinhais, foi uma experiência incrível, com desafios de não cair /(sim, devido a chuva, o terreno estava super enlameado)/, acompanhada de uma lua cheia esplêndia. Caminhada super recomendada!",
+      "description": "Outra viagem do Pedro",
       "userId": 2,
       "name": "Pedro",
       "comments": [
@@ -149,7 +149,7 @@
       "city": "São José dos Pinhais",
       "country": "Brasil",
       "img": "https://cdn.pixabay.com/photo/2022/11/21/16/07/sunset-7607500_960_720.jpg",
-      "description": "Se você curte contato com a natureza, praticar atividade física e conhecer outras pessoas, o programa ideal é participar de uma caminhada na natureza. A 7a caminhada notura da Colônica Murici, em São José dos Pinhais, foi uma experiência incrível, com desafios de não cair /(sim, devido a chuva, o terreno estava super enlameado)/, acompanhada de uma lua cheia esplêndia. Caminhada super recomendada!",
+      "description": "Outra viagem do Eduardo",
       "userId": 5,
       "name": "Eduardo",
       "comments": [],
@@ -161,7 +161,7 @@
       "city": "São José dos Pinhais",
       "country": "Brasil",
       "img": "https://cdn.pixabay.com/photo/2022/11/21/16/07/sunset-7607500_960_720.jpg",
-      "description": "Se você curte contato com a natureza, praticar atividade física e conhecer outras pessoas, o programa ideal é participar de uma caminhada na natureza. A 7a caminhada notura da Colônica Murici, em São José dos Pinhais, foi uma experiência incrível, com desafios de não cair /(sim, devido a chuva, o terreno estava super enlameado)/, acompanhada de uma lua cheia esplêndia. Caminhada super recomendada!",
+      "description": "Outra viagem do Robson",
       "userId": 3,
       "name": "Robson",
       "comments": [
@@ -179,7 +179,7 @@
       "city": "São José dos Pinhais",
       "country": "Brasil",
       "img": "https://cdn.pixabay.com/photo/2022/11/21/16/07/sunset-7607500_960_720.jpg",
-      "description": "Se você curte contato com a natureza, praticar atividade física e conhecer outras pessoas, o programa ideal é participar de uma caminhada na natureza. A 7a caminhada notura da Colônica Murici, em São José dos Pinhais, foi uma experiência incrível, com desafios de não cair /(sim, devido a chuva, o terreno estava super enlameado)/, acompanhada de uma lua cheia esplêndia. Caminhada super recomendada!",
+      "description": "Mais uma viagem do Pedro",
       "userId": 2,
       "name": "Pedro",
       "comments": [],
