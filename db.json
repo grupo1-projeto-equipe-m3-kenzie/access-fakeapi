@@ -6,7 +6,7 @@
       "name": "Acess",
       "img": "",
       "isAdm": "true",
-      "following": [],
+      "following": [4, 5, 3],
       "id": 1
     },
     {
@@ -15,7 +15,7 @@
       "name": "Pedro",
       "img": "",
       "isAdm": "false",
-      "following": [],
+      "following": [1, 4],
       "id": 2
     },
     {
@@ -33,7 +33,7 @@
       "name": "Caio",
       "img": "",
       "isAdm": "false",
-      "following": [4],
+      "following": [3],
       "id": 4
     },
     {
@@ -42,7 +42,7 @@
       "name": "Eduardo",
       "img": "",
       "isAdm": "false",
-      "following": [2, 3],
+      "following": [2, 3, 4],
       "id": 5
     },
     {
@@ -60,7 +60,7 @@
       "name": "Kayan",
       "img": "",
       "isAdm": "false",
-      "following": [2, 3],
+      "following": [2, 3, 6],
       "id": 7
     }
   ],
@@ -75,11 +75,7 @@
       "userId": 2,
       "name": "Pedro",
       "id": 1,
-      "comments": [
-        {
-          "description": "adorei a dica"
-        }
-      ]
+      "comments": []
     },
     {
       "title": "Caminhada na natureza",
@@ -91,7 +87,7 @@
       "userId": 5,
       "name": "Eduardo",
       "id": 2,
-      "comments": "teste"
+      "comments": []
     },
     {
       "title": "Caminhada na natureza",
@@ -102,11 +98,7 @@
       "description": "Se você curte contato com a natureza, praticar atividade física e conhecer outras pessoas, o programa ideal é participar de uma caminhada na natureza. A 7a caminhada notura da Colônica Murici, em São José dos Pinhais, foi uma experiência incrível, com desafios de não cair /(sim, devido a chuva, o terreno estava super enlameado)/, acompanhada de uma lua cheia esplêndia. Caminhada super recomendada!",
       "userId": 4,
       "name": "Caio",
-      "comments": [
-        {
-          "description": "adorei a dica! obrigado"
-        }
-      ],
+      "comments": [],
       "id": 3
     },
     {
@@ -118,11 +110,7 @@
       "description": "Lorem ipsum ",
       "userId": 4,
       "name": "Caio",
-      "comments": [
-        {
-          "description": "adorei a dica! obrigado"
-        }
-      ],
+      "comments": [],
       "id": 4
     },
     {
@@ -134,11 +122,7 @@
       "description": "Se você curte contato com a natureza, praticar atividade física e conhecer outras pessoas, o programa ideal é participar de uma caminhada na natureza. A 7a caminhada notura da Colônica Murici, em São José dos Pinhais, foi uma experiência incrível, com desafios de não cair /(sim, devido a chuva, o terreno estava super enlameado)/, acompanhada de uma lua cheia esplêndia. Caminhada super recomendada!",
       "userId": 2,
       "name": "Robson",
-      "comments": [
-        {
-          "description": "adorei a dica! obrigado"
-        }
-      ],
+      "comments": [],
       "id": 5
     },
     {
@@ -152,7 +136,9 @@
       "name": "Pedro",
       "comments": [
         {
-          "description": "adorei a dica! obrigado"
+          "name": "",
+          "description": "adorei a dica",
+          "img": "https://cdn.pixabay.com/photo/2022/11/21/16/07/sunset-7607500_960_720.jpg"
         }
       ],
       "id": 6
@@ -166,11 +152,7 @@
       "description": "Se você curte contato com a natureza, praticar atividade física e conhecer outras pessoas, o programa ideal é participar de uma caminhada na natureza. A 7a caminhada notura da Colônica Murici, em São José dos Pinhais, foi uma experiência incrível, com desafios de não cair /(sim, devido a chuva, o terreno estava super enlameado)/, acompanhada de uma lua cheia esplêndia. Caminhada super recomendada!",
       "userId": 5,
       "name": "Eduardo",
-      "comments": [
-        {
-          "description": "adorei a dica! obrigado"
-        }
-      ],
+      "comments": [],
       "id": 7
     },
     {
@@ -184,7 +166,9 @@
       "name": "Robson",
       "comments": [
         {
-          "description": "adorei a dica! obrigado"
+          "name": "",
+          "description": "adorei a dica",
+          "img": "https://cdn.pixabay.com/photo/2022/11/21/16/07/sunset-7607500_960_720.jpg"
         }
       ],
       "id": 8
@@ -198,11 +182,7 @@
       "description": "Se você curte contato com a natureza, praticar atividade física e conhecer outras pessoas, o programa ideal é participar de uma caminhada na natureza. A 7a caminhada notura da Colônica Murici, em São José dos Pinhais, foi uma experiência incrível, com desafios de não cair /(sim, devido a chuva, o terreno estava super enlameado)/, acompanhada de uma lua cheia esplêndia. Caminhada super recomendada!",
       "userId": 2,
       "name": "Pedro",
-      "comments": [
-        {
-          "description": "adorei a dica! obrigado"
-        }
-      ],
+      "comments": [],
       "id": 9
     }
   ]
